@@ -1,0 +1,8 @@
+boto3
+botocore
+awswrangler==2.7.0
+sagemaker==2.35.0
+pandas==1.1.4
+numpy==1.18.5
+matplotlib
+seaborn  # Adds statistical visualization.

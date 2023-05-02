@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints
+nb/.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*/.DS_Store
+data/
+*mac*
